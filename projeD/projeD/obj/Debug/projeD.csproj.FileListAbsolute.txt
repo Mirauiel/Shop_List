@@ -1,0 +1,10 @@
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\bin\Debug\projeD.exe.config
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\bin\Debug\projeD.exe
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\bin\Debug\projeD.pdb
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.csproj.AssemblyReference.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.Form1.resources
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.Properties.Resources.resources
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.csproj.GenerateResource.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.csproj.CoreCompileInputs.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.exe
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\projeD\projeD\obj\Debug\projeD.pdb
